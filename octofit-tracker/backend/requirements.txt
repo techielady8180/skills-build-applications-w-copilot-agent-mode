@@ -1,0 +1,2 @@
+# Backend dependencies for OctoFit Tracker
+Django==4.1
